@@ -30,7 +30,7 @@ const Register = () => {
               name="name"
               type="text"
               className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500 sm:text-sm placeholder-gray-400"
-              placeholder="John Doe"
+              placeholder="Syaifudin"
             />
           </div>
         </div>
@@ -48,7 +48,7 @@ const Register = () => {
               name="email"
               type="email"
               className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500 sm:text-sm placeholder-gray-400"
-              placeholder="email@contoh.com"
+              placeholder="fulan23@gmail.com"
             />
           </div>
         </div>
@@ -71,7 +71,7 @@ const Register = () => {
           </div>
           <div className="mt-2 flex items-center">
             <FaCheck className="h-3 w-3 text-green-500 mr-1" />
-            <span className="text-xs text-gray-500">Minimal 8 karakter</span>
+            <span className="text-xs text-gray-500">Minimal 10 karakter</span>
           </div>
         </div>
 

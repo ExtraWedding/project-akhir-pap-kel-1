@@ -27,7 +27,7 @@ const Login = () => {
                 <input
                   type="email"
                   className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2  focus:ring-orange-600 focus:border-orange-600 sm:text-sm placeholder-gray-400"
-                  placeholder="email@contoh.com"
+                  placeholder="fulan@gmail.com"
                 />
               </div>
             </div>
@@ -106,7 +106,7 @@ const Login = () => {
                 <div className="w-full border-t border-gray-200"></div>
               </div>
               <div className="relative flex justify-center text-sm">
-                <span className="px-2 bg-white text-gray-500">Masuk dengan provider lain</span>
+                <span className="px-2 bg-white text-gray-500">Masuk dengan akun lain</span>
               </div>
             </div>
 
